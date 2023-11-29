@@ -28,7 +28,7 @@ public class TC_01_OpenApproveViewActiveCustomerTest {
 	@Test()
 	public void TC_01() throws IOException, InterruptedException, Throwable
 	{
-		//property file handling for common data
+	/*	//property file handling for common data
 		FileUtils fUtil=new FileUtils();
 		String URL=fUtil.readDataFromPropertyFile("url");
 		String StaffUSERNAME=fUtil.readDataFromPropertyFile("staffUsername");
@@ -120,7 +120,7 @@ public class TC_01_OpenApproveViewActiveCustomerTest {
 	Thread.sleep(2000);
 	driver.close();
 	
-	
+	*/
 	
 	
 	
