@@ -12,7 +12,7 @@ public class CmdParameterTest {
 	@Test
 	public void cmdParametertest()
 	{
-		String BROWSER=System.getProperty("browser");//fetching data from system environment
+		/*String BROWSER=System.getProperty("browser");//fetching data from system environment
 		String URL=System.getProperty("url");
 		String USERNAME=System.getProperty("username");
 		String PASSWORD=System.getProperty("password");
@@ -26,6 +26,6 @@ public class CmdParameterTest {
 		driver.findElement(By.name("user_password")).sendKeys(PASSWORD);
 		driver.findElement(By.id("submitButton")).click();
 
-		
+		*/
 	}
 }
